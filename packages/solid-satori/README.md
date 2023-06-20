@@ -25,7 +25,6 @@ pnpm add solid-satori
 Use it:
 
 ```tsx
-// routes/og.png.tsx
 import { renderToSvg } from "solid-satori";
 
 const svg: string = await renderToSvg(
